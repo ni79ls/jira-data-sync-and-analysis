@@ -1,0 +1,5 @@
+requests
+jira
+pandas
+plotly
+python-dotenv
